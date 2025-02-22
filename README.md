@@ -1,4 +1,4 @@
-# Pyt Dictionary
+# Az Dictionary
 
 
 ![image](https://github.com/user-attachments/assets/326e9187-771a-4922-89ac-786aecd53c08)
