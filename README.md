@@ -1,8 +1,5 @@
 # Az Dictionary
 
-![image](https://github.com/user-attachments/assets/5cb97d0d-cf8d-4cd8-96ca-e320668a5892)
-
-
 Bu sene boyunca yapıcağım python dili ile sözlük uygulamasının genel repodur
 
 Öncelikle dosya yollarını belirleyelim:
