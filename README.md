@@ -34,4 +34,19 @@ daha sonradan ise bu butonların işlevini ekleyelim.
 
 ![image](https://github.com/user-attachments/assets/370cfb69-d56b-454c-a989-2fe837986bd2)
 
+# main.py
+Hepsini tek bir kod altında toplayabiliriz artık.
+
+![image](https://github.com/user-attachments/assets/474606e1-6973-4c9a-8e69-0ff52c26a3d1)
+
+
+Ve kodu çalıştırdığımızda ise çıktı görseldeki gibi olucaktır.
+
+![image](https://github.com/user-attachments/assets/74e742a2-1c60-4fd1-b1c4-af4140671c67)
+
+şuan istediğimiz fonksiyonlar düzgünce çalışmaktadır.
+Bu sürüme V 0.0.1 diyebiliriz.
+
+
+
 
