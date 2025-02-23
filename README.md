@@ -20,3 +20,16 @@ bu dosyada ise girilen harfi içeren kelimeler gösterecek fonskiyon vardır.
 
 ![image](https://github.com/user-attachments/assets/33a3eba3-7480-4a7a-aceb-60bd2d5de64b)
 
+# ui.py
+Şimdide basit bir ui yapalım.
+Öncelikle gerekli olan importları yazalım.
+![image](https://github.com/user-attachments/assets/98002dc6-41a2-47b1-8c88-304b1edbb6f7)
+
+önce ![image](https://github.com/user-attachments/assets/86d45d85-adb4-4be5-a967-b25873ae9fc0) oluşturduktan sonra her kodu bu classın altına yazıcaz.
+
+bunları yazdıktan sonra ise pencere ayarları ile Wıdget ve button ekleyelim.
+![image](https://github.com/user-attachments/assets/66de16e6-0159-46a4-a2e2-69b0800306dd)
+
+daha sonradan ise bu butonların işlevini ekleyelim.
+![image](https://github.com/user-attachments/assets/583f0f25-4739-48de-9ebb-ba5a4330b165)
+
