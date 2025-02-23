@@ -45,7 +45,7 @@ Ve kodu çalıştırdığımızda ise çıktı görseldeki gibi olucaktır.
 ![image](https://github.com/user-attachments/assets/74e742a2-1c60-4fd1-b1c4-af4140671c67)
 
 şuan istediğimiz fonksiyonlar düzgünce çalışmaktadır.
-Bu sürüme V 0.0.1 diyebiliriz.
+"""Bu sürüme V 0.0.1 diyebiliriz."""
 
 
 
