@@ -1,4 +1,4 @@
-# Az Dictionary
+![image](https://github.com/user-attachments/assets/5cb97d0d-cf8d-4cd8-96ca-e320668a5892)# Az Dictionary
 
 
 Bu sene boyunca yapıcağım python dili ile sözlük uygulamasının genel repodur
@@ -33,5 +33,6 @@ bunları yazdıktan sonra ise pencere ayarları ile Wıdget ve button ekleyelim.
 
 daha sonradan ise bu butonların işlevini ekleyelim.
 
-![image](https://github.com/user-attachments/assets/583f0f25-4739-48de-9ebb-ba5a4330b165)
+![image](https://github.com/user-attachments/assets/370cfb69-d56b-454c-a989-2fe837986bd2)
+
 
