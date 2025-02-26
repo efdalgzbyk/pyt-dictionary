@@ -92,3 +92,32 @@ Ve kodu çalıştırdığımızda ise çıktı görseldeki gibi olucaktır.
 
 ![image](https://github.com/user-attachments/assets/992011f4-0c6e-4591-b8d5-a0bcb6796f9f)
 
+# ui.py güncelenmiş hali
+
+<h3>İlk önce yeni importlar ekleyerek başlayalım</h3>
+
+![image](https://github.com/user-attachments/assets/bf8fa03a-0eef-4333-8d32-220aca6dfa90)
+<h3>Burada QIcon kütüphanesi ıcon eklememize işe yarıyorken os kütüphanesi bilgisyardaki logoyu bulmaya işe yarıyor. </h3>
+
+<h3>Eğer icon_name in yeri değiştirilir ise;</h3>
+
+![image](https://github.com/user-attachments/assets/66d3e4f5-9a73-4f6c-bca4-47a2d40d3eaa)
+<h3>Kullanılarak dosyayı otomatik olarak bulmaya işe yarar.</h3>
+
+## Kodun son hali 
+
+![image](https://github.com/user-attachments/assets/f39041c5-fd66-4d57-80c3-b8e4b58ff017)
+
+![image](https://github.com/user-attachments/assets/41debd6c-8f9d-49e4-ade7-977c8c66da78)
+
+![image](https://github.com/user-attachments/assets/261293bd-9ebd-499b-86f2-30c1d4afe596)
+
+![image](https://github.com/user-attachments/assets/c1bc7d24-20ef-41a6-ae6a-623a0387cda9)
+
+# main.py güncellenmiş hali
+
+<h3>Son olarak tüm kodları tek dosyada toparlamak adına.</h3>
+
+![image](https://github.com/user-attachments/assets/f45ccd06-78d1-40d3-989b-a7637d45f0f5)
+<h3>Artık son eklediğimiz fonksiyonlarıda yazdığımıza artık run yaparak programımızın son halini alabiliriz.</h3>
+<h3>Artık kelimelerin anlamlarını girerek ve kelime anlamını tek bir sayfadan görebilriz.</h3>
