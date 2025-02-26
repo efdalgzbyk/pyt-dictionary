@@ -2,7 +2,7 @@
 
 <h1>Bu sene boyunca yapıcağım python dili ile sözlük uygulamasının genel repodur</h1>
 
-<h1>İlk önce vers. 0.0.1 sadece kelime_girme, kelime_ekle, kelime_sil ve kelime içinde harf arama yapma fonksiyonlarını eklicez.</h1>
+<h2>İlk önce vers. 0.0.1 sadece kelime_girme, kelime_ekle, kelime_sil ve kelime içinde harf arama yapma fonksiyonlarını eklicez.</h2>
 
 Öncelikle dosya yollarını belirleyelim:
 ![image](https://github.com/user-attachments/assets/af63f594-62be-47ce-962c-d84e5f65d09b)
