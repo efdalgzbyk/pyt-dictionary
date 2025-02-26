@@ -67,7 +67,10 @@ Ve kodu çalıştırdığımızda ise çıktı görseldeki gibi olucaktır.
 <h2>def kelime_ekle()</h2>
 
 <h1>Artık kelimeler_ekle() anlam olayını da eklicez ve kelimelerle beraber anlamlarınıda eklicez  </h1>
-<h3>İlk olarak aynı kelimeler eklenmemesi adına kullandığımız if komuyunu daha etkili hale getirebilmek için ![image](https://github.com/user-attachments/assets/d351d4d3-6b05-4e51-8c91-976774e679f5) başına ekliyerek kelime tekrarlanmasını önlemiş oluruz.
+<h3>İlk olarak aynı kelimeler eklenmemesi adına kullandığımız if komuyunu daha etkili hale getirebilmek için </h3>
+
+![image](https://github.com/user-attachments/assets/d351d4d3-6b05-4e51-8c91-976774e679f5)
+<h3>başına ekliyerek kelime tekrarlanmasını önlemiş oluruz.
 </h3>
 <h3>Devamında ise kelimeye anlam eklemek için ![image](https://github.com/user-attachments/assets/7744d29a-9381-4153-bc30-aa5168f19575) komutunu uygulayarak kelimenin anlamını sozlukğe eklemiş oluruz. Ve kodun son hali:
 ![image](https://github.com/user-attachments/assets/6bedc0cb-8f4b-46f3-82ab-4bcdf4d505f1)
