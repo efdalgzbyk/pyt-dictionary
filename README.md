@@ -66,7 +66,7 @@ Ve kodu çalıştırdığımızda ise çıktı görseldeki gibi olucaktır.
 
 <h2>def kelime_ekle()</h2>
 
-<h1>Artık kelimeler_ekle() anlam olayını da eklicez ve kelimelerle beraber anlamlarınıda eklicez  </h1>
+<h3>Artık kelimeler_ekle() anlam olayını da eklicez ve kelimelerle beraber anlamlarınıda eklicez  </h3>
 <h3>İlk olarak aynı kelimeler eklenmemesi adına kullandığımız if komuyunu daha etkili hale getirebilmek için </h3>
 
 ![image](https://github.com/user-attachments/assets/d351d4d3-6b05-4e51-8c91-976774e679f5)
@@ -80,3 +80,12 @@ Ve kodu çalıştırdığımızda ise çıktı görseldeki gibi olucaktır.
 
 ![image](https://github.com/user-attachments/assets/6bedc0cb-8f4b-46f3-82ab-4bcdf4d505f1)
 
+# def kelime_sil()
+<h3>Aynı şekilde buradada kelime_ekle() de kullandığımız sozluk komutunu kullanıcaz. </h3>
+<h3>Eğer ki sözlüğün içinde kelime bulunmassa diye return komutları eklemeliyiz.</h3>
+<h3>Sonunda ise elde ettiğimiz yeni kelime_sil() komutu ektedir. </h3>
+
+![image](https://github.com/user-attachments/assets/2926992d-f460-4b31-82ec-586a7b640b09)
+
+# def kelime_ara()
+<h3></h3>
