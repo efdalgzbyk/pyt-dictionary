@@ -51,5 +51,20 @@ Ve kodu çalıştırdığımızda ise çıktı görseldeki gibi olucaktır.
 """Bu sürüme V 0.0.1 diyebiliriz."""
 
 
+<h1>Vers. 0.0.2 </h1>
+<h3>Bu surümde ise artık kelimelerin anlamlarını girip kelimeyi ve anlamını tek bir sayfada görebileceğiz artık bi adım daha sözlük(dictionary) benzemeye başladı.</h3>
+
+<h2>def kelimleri_yükle()</h2>
+<h3>İlk adım olarak kelimelerin kaydedildiği dosya eğer silinirse diye bir önlem alarak boş bir sözlük döndürmesini isteyebilriz.</h3> 
+
+![image](https://github.com/user-attachments/assets/45992226-8528-4e31-a757-b452356e9f32)
+
+<h3>Ve artık "def kelimeleri_kaydet() kaldırıp onuda def kelimeleri_yukle() içine ele alabiliriz ve artık def kelimeler_yukle() yeni hali görseldeki gibi olmuş olur.</h3>
+
+![image](https://github.com/user-attachments/assets/b5f29c46-b7b1-48c3-b495-3bf996cfc671)
+
+
+<h3>def kelimler_ekle()</h3>
+
 
 
