@@ -1,6 +1,6 @@
 # Az Dictionary
 
-Bu sene boyunca yapıcağım python dili ile sözlük uygulamasının genel repodur
+<h1 color=Red>Bu sene boyunca yapıcağım python dili ile sözlük uygulamasının genel repodur</h1>
 
 <h1>İlk önce vers. 0.0.1 sadece kelime_girme, kelime_ekle, kelime_sil ve kelime içinde harf arama yapma fonksiyonlarını eklicez.</h1>
 
