@@ -87,5 +87,8 @@ Ve kodu çalıştırdığımızda ise çıktı görseldeki gibi olucaktır.
 
 ![image](https://github.com/user-attachments/assets/2926992d-f460-4b31-82ec-586a7b640b09)
 
-# def kelime_ara()
-<h3></h3>
+# def anlam_getir()
+<h3>Bu fonskiyonda ise verilen kelimenin anlamını döndürür, yoksa 'Anlam bulunamadı' yazar. </h3>
+
+![image](https://github.com/user-attachments/assets/992011f4-0c6e-4591-b8d5-a0bcb6796f9f)
+
