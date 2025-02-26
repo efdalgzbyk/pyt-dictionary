@@ -52,7 +52,7 @@ Ve kodu çalıştırdığımızda ise çıktı görseldeki gibi olucaktır.
 
 
 <h1>Vers. 0.0.2 </h1>
-<h3>Bu surümde ise artık kelimelerin anlamlarını girip kelimeyi ve anlamını tek bir sayfada görebileceğiz artık bi adım daha sözlük(dictionary) benzemeye başladı.</h3>
+<h3>Bu sürümde ise artık kelimelerin anlamlarını girip kelimeyi ve anlamını tek bir sayfada görebileceğiz artık bi adım daha sözlük(dictionary) benzemeye başladı.</h3>
 
 <h2>def kelimleri_yükle()</h2>
 <h3>İlk adım olarak kelimelerin kaydedildiği dosya eğer silinirse diye bir önlem alarak boş bir sözlük döndürmesini isteyebilriz.</h3> 
@@ -64,7 +64,7 @@ Ve kodu çalıştırdığımızda ise çıktı görseldeki gibi olucaktır.
 ![image](https://github.com/user-attachments/assets/b5f29c46-b7b1-48c3-b495-3bf996cfc671)
 
 
-<h3>def kelimler_ekle()</h3>
+<h2>def kelimler_ekle()</h2>
 
 
 
