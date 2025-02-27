@@ -122,7 +122,8 @@ Son olarak tüm kodları tek dosyada toparlamak adına.
 Artık son eklediğimiz fonksiyonlarıda yazdığımıza artık run yaparak programımızın son halini alabiliriz.
 Artık kelimelerin anlamlarını girerek ve kelime anlamını tek bir sayfadan görebilriz.
 
-# Vers. 0.0.3 
-
-
 ![image](https://github.com/user-attachments/assets/66e7b80f-349a-4212-94b0-77fd1e74dc71)
+
+
+# Vers. 0.0.3 
+coming soon
