@@ -52,54 +52,54 @@ Ve kodu çalıştırdığımızda ise çıktı görseldeki gibi olucaktır.
 
 
 <h1>Vers. 0.0.2 </h1>
-<h3>Bu sürümde ise artık kelimelerin anlamlarını girip kelimeyi ve anlamını tek bir sayfada görebileceğiz artık bi adım daha sözlük(dictionary) benzemeye başladı.</h3>
+Bu sürümde ise artık kelimelerin anlamlarını girip kelimeyi ve anlamını tek bir sayfada görebileceğiz artık bi adım daha sözlük(dictionary) benzemeye başladı.
 
 <h2>def kelimleri_yükle()</h2>
-<h3>İlk adım olarak kelimelerin kaydedildiği dosya eğer silinirse diye bir önlem alarak boş bir sözlük döndürmesini isteyebilriz.</h3> 
+İlk adım olarak kelimelerin kaydedildiği dosya eğer silinirse diye bir önlem alarak boş bir sözlük döndürmesini isteyebilriz. 
 
 ![image](https://github.com/user-attachments/assets/45992226-8528-4e31-a757-b452356e9f32)
 
-<h3>Ve artık "def kelimeleri_kaydet() kaldırıp onuda def kelimeleri_yukle() içine ele alabiliriz ve artık def kelimeler_yukle() yeni hali görseldeki gibi olmuş olur.</h3>
+Ve artık "def kelimeleri_kaydet() kaldırıp onuda def kelimeleri_yukle() içine ele alabiliriz ve artık def kelimeler_yukle() yeni hali görseldeki gibi olmuş olur.
 
 ![image](https://github.com/user-attachments/assets/b5f29c46-b7b1-48c3-b495-3bf996cfc671)
 
 
 <h2>def kelime_ekle()</h2>
 
-<h3>Artık kelimeler_ekle() anlam olayını da eklicez ve kelimelerle beraber anlamlarınıda eklicez  </h3>
-<h3>İlk olarak aynı kelimeler eklenmemesi adına kullandığımız if komuyunu daha etkili hale getirebilmek için </h3>
+Artık kelimeler_ekle() anlam olayını da eklicez ve kelimelerle beraber anlamlarınıda eklicez 
+İlk olarak aynı kelimeler eklenmemesi adına kullandığımız if komuyunu daha etkili hale getirebilmek için 
 
 ![image](https://github.com/user-attachments/assets/d351d4d3-6b05-4e51-8c91-976774e679f5)
-<h3>başına ekliyerek kelime tekrarlanmasını önlemiş oluruz.
-</h3>
-<h3>Devamında ise kelimeye anlam eklemek için </h3>
+başına ekliyerek kelime tekrarlanmasını önlemiş oluruz.
+
+Devamında ise kelimeye anlam eklemek için 
 
 ![image](https://github.com/user-attachments/assets/7744d29a-9381-4153-bc30-aa5168f19575)
-<h3>komutunu uygulayarak kelimenin anlamını sozlukğe eklemiş oluruz. Ve kodun son hali:
-</h3>
+komutunu uygulayarak kelimenin anlamını sozlukğe eklemiş oluruz. Ve kodun son hali:
+
 
 ![image](https://github.com/user-attachments/assets/6bedc0cb-8f4b-46f3-82ab-4bcdf4d505f1)
 
 # def kelime_sil()
-<h3>Aynı şekilde buradada kelime_ekle() de kullandığımız sozluk komutunu kullanıcaz. </h3>
-<h3>Eğer ki sözlüğün içinde kelime bulunmassa diye return komutları eklemeliyiz.</h3>
-<h3>Sonunda ise elde ettiğimiz yeni kelime_sil() komutu ektedir. </h3>
+Aynı şekilde buradada kelime_ekle() de kullandığımız sozluk komutunu kullanıcaz. 
+Eğer ki sözlüğün içinde kelime bulunmassa diye return komutları eklemeliyiz.
+Sonunda ise elde ettiğimiz yeni kelime_sil() komutu ektedir. 
 
 ![image](https://github.com/user-attachments/assets/2926992d-f460-4b31-82ec-586a7b640b09)
 
 # def anlam_getir()
-<h3>Bu fonskiyonda ise verilen kelimenin anlamını döndürür, yoksa 'Anlam bulunamadı' yazar. </h3>
+Bu fonskiyonda ise verilen kelimenin anlamını döndürür, yoksa 'Anlam bulunamadı' yazar. 
 
 ![image](https://github.com/user-attachments/assets/992011f4-0c6e-4591-b8d5-a0bcb6796f9f)
 
 # ui.py güncelenmiş hali
 
-<h3>İlk önce yeni importlar ekleyerek başlayalım</h3>
+İlk önce yeni importlar ekleyerek başlayalım
 
 ![image](https://github.com/user-attachments/assets/bf8fa03a-0eef-4333-8d32-220aca6dfa90)
 <h3>Burada QIcon kütüphanesi ıcon eklememize işe yarıyorken os kütüphanesi bilgisyardaki logoyu bulmaya işe yarıyor. </h3>
 
-<h3>Eğer icon_name in yeri değiştirilir ise;</h3>
+Eğer icon_name in yeri değiştirilir ise;
 
 ![image](https://github.com/user-attachments/assets/66d3e4f5-9a73-4f6c-bca4-47a2d40d3eaa)
 <h3>Kullanılarak dosyayı otomatik olarak bulmaya işe yarar.</h3>
@@ -116,8 +116,10 @@ Ve kodu çalıştırdığımızda ise çıktı görseldeki gibi olucaktır.
 
 # main.py güncellenmiş hali
 
-<h3>Son olarak tüm kodları tek dosyada toparlamak adına.</h3>
+Son olarak tüm kodları tek dosyada toparlamak adına.
 
 ![image](https://github.com/user-attachments/assets/f45ccd06-78d1-40d3-989b-a7637d45f0f5)
-<h3>Artık son eklediğimiz fonksiyonlarıda yazdığımıza artık run yaparak programımızın son halini alabiliriz.</h3>
-<h3>Artık kelimelerin anlamlarını girerek ve kelime anlamını tek bir sayfadan görebilriz.</h3>
+Artık son eklediğimiz fonksiyonlarıda yazdığımıza artık run yaparak programımızın son halini alabiliriz.
+Artık kelimelerin anlamlarını girerek ve kelime anlamını tek bir sayfadan görebilriz.
+
+![image](https://github.com/user-attachments/assets/66e7b80f-349a-4212-94b0-77fd1e74dc71)
